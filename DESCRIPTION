@@ -2,14 +2,15 @@ Package: jeeves
 Type: Package
 Title: P.G. Wodehouse Works on Project Guttenberg
 Version: 0.1.0
-Authors@R: c(
-    person("Ani", "Ruhil", email="ruhil@ohio.edu", role = c("aut", "cre"))
-    )
+Authors@R: person("Ani", "Ruhil", email="ruhil@ohio.edu", 
+  role = c("aut", "cre"))
 Maintainer: Ani Ruhil <ruhil@ohio.edu>
-Description: The package gives you all works by P.G. Wodehouse available via Project Guttenberg. If you are not a Wodehousian, you have no idea what you are missing out on. Come on, join the club, and get ready to grip your sides as you laugh hysterically. 
-License: MIT + file LICENSE
-Depends: 
-    R (>= 3.1)
+Description: The package gives you all works by P.G. Wodehouse available 
+  via Project Guttenberg. If you are not a Wodehousian, you have no idea what 
+  you are missing out on. Come on, join the club, and get ready to grip your 
+  sides as you laugh hysterically. 
+License: MIT
+Depends: R (>= 3.1)
 Encoding: UTF-8
 LazyData: true 
 RoxygenNote: 6.0.1
