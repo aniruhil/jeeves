@@ -12,7 +12,7 @@ devtools::install_github("aniruhil/jeeves")
 
 and load it via 
 
-````{r}
+```{r}
 library(jeeves)
 ```
 
