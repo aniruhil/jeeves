@@ -15,3 +15,4 @@ NULL
 #' @source \url{https://www.gutenberg.org/files/8164/8164.txt}
 #' @format A character vector with 6886 elements
 "mymanjeeves"
+
