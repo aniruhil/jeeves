@@ -12,5 +12,4 @@ Depends:
     R (>= 3.1)
 Encoding: UTF-8
 LazyData: true 
-URL: https://github.com/aniruhil/jeeves
 RoxygenNote: 6.0.1
