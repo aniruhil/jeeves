@@ -9,7 +9,7 @@ Description: The package gives you all works by P.G. Wodehouse available
   via Project Guttenberg. If you are not a Wodehousian, you have no idea what 
   you are missing out on. Come on, join the club, and get ready to grip your 
   sides as you laugh hysterically. 
-License: MIT
+License: MIT + file LICENSE
 Depends: R (>= 3.1)
 Encoding: UTF-8
 LazyData: true 
