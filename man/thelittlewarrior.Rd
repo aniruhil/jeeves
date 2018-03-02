@@ -3,7 +3,7 @@
 \docType{data}
 \name{thelittlewarrior}
 \alias{thelittlewarrior}
-\title{"The Little Warrior"}
+\title{The Little Warrior}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/6837/pg6837.txt}

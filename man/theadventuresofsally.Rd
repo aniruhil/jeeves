@@ -3,7 +3,7 @@
 \docType{data}
 \name{theadventuresofsally}
 \alias{theadventuresofsally}
-\title{"The Adventures of Sally"}
+\title{The Adventures of Sally}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/files/7464/7464-0.txt}

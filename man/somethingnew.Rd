@@ -3,7 +3,7 @@
 \docType{data}
 \name{somethingnew}
 \alias{somethingnew}
-\title{"Something New"}
+\title{Something New}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/2042/pg2042.txt}

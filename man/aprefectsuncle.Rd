@@ -3,7 +3,7 @@
 \docType{data}
 \name{aprefectsuncle}
 \alias{aprefectsuncle}
-\title{"A Prefect's Uncle"}
+\title{A Prefect's Uncle}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/files/6985/6985.txt}

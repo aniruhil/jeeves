@@ -3,7 +3,7 @@
 \docType{data}
 \name{thepothunters}
 \alias{thepothunters}
-\title{"The Pothunters"}
+\title{@title The Pothunters}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/6984/pg6984.txt}

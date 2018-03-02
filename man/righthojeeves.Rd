@@ -3,7 +3,7 @@
 \docType{data}
 \name{righthojeeves}
 \alias{righthojeeves}
-\title{"Right Ho, Jeeves"}
+\title{Right Ho, Jeeves}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/10554/pg10554.txt}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{thepolitenessofprincesandotherstories}
 \alias{thepolitenessofprincesandotherstories}
-\title{"The Politeness of Princes and Other School Stories"}
+\title{The Politeness of Princes and Other School Stories}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/8178/pg8178.txt}

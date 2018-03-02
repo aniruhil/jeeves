@@ -3,7 +3,7 @@
 \docType{data}
 \name{uneasymoney}
 \alias{uneasymoney}
-\title{"Uneasy Money"}
+\title{Uneasy Money}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/6684/pg6684.txt}

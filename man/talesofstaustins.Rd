@@ -3,7 +3,7 @@
 \docType{data}
 \name{talesofstaustins}
 \alias{talesofstaustins}
-\title{"Tales of St. Austins"}
+\title{Tales of St. Austins}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/6980/pg6980.txt}

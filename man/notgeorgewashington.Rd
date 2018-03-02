@@ -3,7 +3,7 @@
 \docType{data}
 \name{notgeorgewashington}
 \alias{notgeorgewashington}
-\title{"Not George Washington: A Smi-autobiographical Novel"}
+\title{Not George Washington: A Smi-autobiographical Novel}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/7230/pg7230.txt}

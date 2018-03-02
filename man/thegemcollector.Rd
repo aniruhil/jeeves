@@ -3,7 +3,7 @@
 \docType{data}
 \name{thegemcollector}
 \alias{thegemcollector}
-\title{"The Gem Collector"}
+\title{The Gem Collector}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/8931/pg8931.txt}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{amanofmeans}
 \alias{amanofmeans}
-\title{"A Man of Means"}
+\title{A Man of Means}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/files/8713/8713.txt}

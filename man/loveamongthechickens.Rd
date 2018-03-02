@@ -3,7 +3,7 @@
 \docType{data}
 \name{loveamongthechickens}
 \alias{loveamongthechickens}
-\title{"Love Among the Chickens"}
+\title{Love Among the Chickens}
 \format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 6543 rows and 3 columns.}
 \source{
 \url{http://www.gutenberg.org/cache/epub/3829/pg3829.txt}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{theswooporhowclarencesavedengland}
 \alias{theswooporhowclarencesavedengland}
-\title{"The Swoop or how Clarence Saved England"}
+\title{The Swoop or how Clarence Saved England}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/7050/pg7050.txt}

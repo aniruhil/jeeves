@@ -3,7 +3,7 @@
 \docType{data}
 \name{indiscretionsofarchie}
 \alias{indiscretionsofarchie}
-\title{"Indiscretions of Archie"}
+\title{Indiscretions of Archie}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \usage{
 indiscretionsofarchie

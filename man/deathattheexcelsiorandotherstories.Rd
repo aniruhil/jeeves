@@ -3,7 +3,7 @@
 \docType{data}
 \name{deathattheexcelsiorandotherstories}
 \alias{deathattheexcelsiorandotherstories}
-\title{"Death at The Excelsior and Other Stories"}
+\title{Death at The Excelsior and Other Stories}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \usage{
 deathattheexcelsiorandotherstories

@@ -3,7 +3,7 @@
 \docType{data}
 \name{mike}
 \alias{mike}
-\title{"Mike"}
+\title{Mike}
 \format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 15160 rows and 3 columns.}
 \source{
 \url{http://www.gutenberg.org/cache/epub/7423/pg7423.txt}

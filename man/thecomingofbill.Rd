@@ -3,7 +3,7 @@
 \docType{data}
 \name{thecomingofbill}
 \alias{thecomingofbill}
-\title{"The Coming of Bill"}
+\title{The Coming of Bill}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/6880/pg6880.txt}

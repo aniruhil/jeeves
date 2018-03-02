@@ -3,7 +3,7 @@
 \docType{data}
 \name{adamselindistress}
 \alias{adamselindistress}
-\title{"A Damsel in Distress"}
+\title{A Damsel in Distress}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{https://www.gutenberg.org/files/2233/2233-8.txt}

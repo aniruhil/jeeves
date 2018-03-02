@@ -8,7 +8,7 @@
 NULL
 
 
-#' "A Damsel in Distress"
+#' @title A Damsel in Distress
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' novel "A Damsel in Distress". First published in 1919, the plot revolves
@@ -21,7 +21,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "adamselindistress"
 
-#' "A Man of Means"
+#' @title A Man of Means
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' "A Man of Means", a collection of six short stories published in 1914,
@@ -31,7 +31,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "amanofmeans"
 
-#' "A Prefect's Uncle"
+#' @title A Prefect's Uncle
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' "A Prefect's Uncle", a collection of stories set in a private school for boys.
@@ -40,7 +40,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "aprefectsuncle"
 
-#' "A Wodehouse Miscellany"
+#' @title A Wodehouse Miscellany
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' "A Wodehouse Miscellany", a collection of articles, poems, and stories.
@@ -49,7 +49,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "awodehousemiscellany"
 
-#' "Death at The Excelsior and Other Stories"
+#' @title Death at The Excelsior and Other Stories
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #'"Death at the Excelsior and Other Stories", a postumously published collection of short
@@ -59,7 +59,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "deathattheexcelsiorandotherstories"
 
-#' "Indiscretions of Archie"
+#' @title Indiscretions of Archie
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' "Indiscretions of Archie", a hilarious narrative documenting Archie's travails in
@@ -69,7 +69,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "indiscretionsofarchie"
 
-#' "Jill the Reckless"
+#' @title Jill the Reckless
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' 1920 classic love story that spans the Atlantic.
@@ -78,7 +78,7 @@ NULL
 #' #' @format A `tbl_df`, `tbl`, and `data.frame`
 "jillthereckless"
 
-#' "Love Among the Chickens"
+#' @title Love Among the Chickens
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' "Love Among the Chickens", a book that launched his career.
@@ -86,7 +86,7 @@ NULL
 #' #' @format A `tbl_df`, `tbl`, and `data.frame`
 "loveamongthechickens"
 
-#' "Mike"
+#' @title Mike
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' "Mike", the work that introduced us to Mike (and a whole lot of cricketing jargon).
@@ -95,7 +95,7 @@ NULL
 #' #' @format A `tbl_df`, `tbl`, and `data.frame`
 "mike"
 
-#' "Mike and Psmith"
+#' @title Mike and Psmith
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' "Mike and Psmith", a story  about two friends at a boarding school.
@@ -104,7 +104,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "mikeandpsmith"
 
-#' "My Man Jeeves"
+#' @title My Man Jeeves
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's 1919
 #' "My Man Jeeves", a collection of short stories that feature Jeeves,
@@ -114,7 +114,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "mymanjeeves"
 
-#' "Not George Washington: A Smi-autobiographical Novel"
+#' @title Not George Washington: A Smi-autobiographical Novel
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #'semi-autobiographical novel.
@@ -123,7 +123,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "notgeorgewashington"
 
-#' "Piccadilly Jim"
+#' @title Piccadilly Jim
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' rollicking collection of four novels.
@@ -132,7 +132,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "piccadillyjim"
 
-#' "Psmith in the City"
+#' @title Psmith in the City
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' narrative revolving around Mike Jackson, Psmith, and cricketing dreams dashed by fate, or are they?
@@ -141,7 +141,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "psmithinthecity"
 
-#' "Psmith, Journalist"
+#' @title Psmith, Journalist
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' contiuing saga of Mike and Psmith and more cricket.
@@ -150,7 +150,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "psmithjournalist"
 
-#' "Right Ho, Jeeves"
+#' @title Right Ho, Jeeves
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' classic collection of tales revolving around Bertie Wooster and the unflappable Jeeves.
@@ -159,7 +159,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "righthojeeves"
 
-#' "Something New"
+#' @title Something New
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' hilarious saga of goings on at Blandings Castle.
@@ -168,7 +168,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "somethingnew"
 
-#' "Tales of St. Austins"
+#' @title Tales of St. Austins
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' collection of short stories and essays set in a public school, revolving around rugby
@@ -178,7 +178,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "talesofstaustins"
 
-#' "The Adventures of Sally"
+#' @title The Adventures of Sally
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' novel about the travails and tribulations of a heiress.
@@ -187,7 +187,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "theadventuresofsally"
 
-#' "The Clicking of Cuthbert"
+#' @title The Clicking of Cuthbert
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' classic fare that involves golf, and more golf.
@@ -196,7 +196,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "theclickingofcuthbert"
 
-#' "The Coming of Bill"
+#' @title The Coming of Bill
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' "serious" novel.
@@ -205,7 +205,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "thecomingofbill"
 
-#' "The Gem Collector"
+#' @title The Gem Collector
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' tale of Spike's misdeeds and eleventh-hour rescues that set the world right.
@@ -214,7 +214,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "thegemcollector"
 
-#' "The Girl on the Boat"
+#' @title The Girl on the Boat
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' novek about red-haired, dog-loving "Billie".
@@ -223,7 +223,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "thegirlontheboat"
 
-#' "The Gold Bat"
+#' @title The Gold Bat
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' novel set in Wrykyn School.
@@ -232,7 +232,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "thegoldbat"
 
-#' "The Head of Kays"
+#' @title The Head of Kays
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' novel set in a public school beset with the usual panoply of unruly pupils.
@@ -241,7 +241,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "theheadofkays"
 
-#' "The Intrusion of Jimmy"
+#' @title The Intrusion of Jimmy
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' masterful treatment of romantic farce.
@@ -250,7 +250,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "theintrusionofjimmy"
 
-#' "The Little Nugget"
+#' @title The Little Nugget
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' 1913 coming-of-age light comic novel set in a prep school.
@@ -259,7 +259,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "thelittlenugget"
 
-#' "The Little Warrior"
+#' @title The Little Warrior
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' romantic tale set on both sides of the Atlantic with uncommon twists and turns.
@@ -268,7 +268,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "thelittlewarrior"
 
-#' "The Man Upstairs and Other Stories"
+#' @title The Man Upstairs and Other Stories
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' "The Man Upstairs"
@@ -277,7 +277,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "themanupstairs"
 
-#' "The Man with Two Left Feet"
+#' @title The Man with Two Left Feet
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' collection of short stories that might introduce Jeeves.
@@ -286,7 +286,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "themanwithtwoleftfeet"
 
-#' "The Politeness of Princes and Other School Stories"
+#' @title The Politeness of Princes and Other School Stories
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' short story published in 1902.
@@ -295,7 +295,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "thepolitenessofprincesandotherstories"
 
-#'  "The Pothunters"
+#'  @title The Pothunters
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' novel about stolen silver cups from a cricket pavillion.
@@ -304,7 +304,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "thepothunters"
 
-#' "The Prince and Betty"
+#' @title The Prince and Betty
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' novel about a scheming billionaire, his daughter's love interest, and casino in the works.
@@ -313,7 +313,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "theprinceandbetty"
 
-#' "The Swoop or how Clarence Saved England"
+#' @title The Swoop or how Clarence Saved England
 #'
 #'@description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' "The Swoop!, or How Clarence Saved England".
@@ -322,7 +322,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "theswooporhowclarencesavedengland"
 
-#' "The White Feather"
+#' @title The White Feather
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' novel set in Wrykyn School.
@@ -331,7 +331,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "thewhitefeather"
 
-#' "Three Men and a Maid"
+#' @title Three Men and a Maid
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' "A Girl on a Boat", initially published in the United States as "Three Men and a Maid".
@@ -342,7 +342,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "threemenandamaid"
 
-#' "Uneasy Money"
+#' @title Uneasy Money
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' novel about a man finding it hard to give money away to those hard-done by a will,
@@ -352,7 +352,7 @@ NULL
 #' @format A `tbl_df`, `tbl`, and `data.frame`
 "uneasymoney"
 
-#' "William Tell Told Again"
+#' @title William Tell Told Again
 #'
 #' @description A data set containing the complete text of Pelham Grenville Wodehouse's
 #' retelling of the legendary tales of William Tell, in prose and verse.

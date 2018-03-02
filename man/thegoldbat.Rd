@@ -3,7 +3,7 @@
 \docType{data}
 \name{thegoldbat}
 \alias{thegoldbat}
-\title{"The Gold Bat"}
+\title{The Gold Bat}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/20717/pg20717.txt}

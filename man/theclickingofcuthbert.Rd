@@ -3,7 +3,7 @@
 \docType{data}
 \name{theclickingofcuthbert}
 \alias{theclickingofcuthbert}
-\title{"The Clicking of Cuthbert"}
+\title{The Clicking of Cuthbert}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/7028/pg7028.txt}

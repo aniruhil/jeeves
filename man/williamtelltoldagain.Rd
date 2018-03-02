@@ -3,7 +3,7 @@
 \docType{data}
 \name{williamtelltoldagain}
 \alias{williamtelltoldagain}
-\title{"William Tell Told Again"}
+\title{William Tell Told Again}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/7298/pg7298.txt}

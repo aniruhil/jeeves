@@ -3,7 +3,7 @@
 \docType{data}
 \name{awodehousemiscellany}
 \alias{awodehousemiscellany}
-\title{"A Wodehouse Miscellany"}
+\title{A Wodehouse Miscellany}
 \format{A `tbl_df`, `tbl`, and `data.frame`}
 \source{
 \url{http://www.gutenberg.org/cache/epub/8190/pg8190.txt}
